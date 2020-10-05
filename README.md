@@ -1,2 +1,2 @@
 # MyRPC
-MyRPC on GitHUb
+MyRPC on GitHub
